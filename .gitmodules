@@ -1,0 +1,3 @@
+[submodule "diario_viagem/my-app"]
+	path = diario_viagem/my-app
+	url = https://github.com/devAugustoW/Atividade_Fullstack.git
